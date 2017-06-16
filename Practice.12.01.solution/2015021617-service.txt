@@ -1,0 +1,26 @@
+Batch Counter	ReportTime	Service	Node Id	RefreshTime	Request Count	RequestPendingCount	RequestPendingDuration	Request Timeout Count	Task Count	TaskBacklog	Task Timeout Count	Task Hung Count	Thread Abandoned Count
+1	Mon Feb 16 17:29:27 IST 2015	DistributedCache	1	Mon Feb 16 17:29:27 IST 2015	435	0	0	0	0	0	0	0	0
+1	Mon Feb 16 17:29:27 IST 2015	DistributedCache	2	Mon Feb 16 17:29:27 IST 2015	949	0	0	0	0	0	0	0	0
+1	Mon Feb 16 17:29:27 IST 2015	InvocationService	1	Mon Feb 16 17:29:27 IST 2015	1	0	0	0	0	0	0	0	0
+1	Mon Feb 16 17:29:27 IST 2015	OptimisticCache	1	Mon Feb 16 17:29:27 IST 2015	0	0	0	0	0	0	0	0	0
+1	Mon Feb 16 17:29:27 IST 2015	ReplicatedCache	1	Mon Feb 16 17:29:27 IST 2015	0	0	0	0	0	0	0	0	0
+2	Mon Feb 16 17:30:27 IST 2015	DistributedCache	1	Mon Feb 16 17:30:27 IST 2015	192.0	0	0	0.0	0.0	0	0.0	0	0.0
+2	Mon Feb 16 17:30:27 IST 2015	DistributedCache	2	Mon Feb 16 17:30:27 IST 2015	1055.0	0	0	0.0	0.0	0	0.0	0	0.0
+2	Mon Feb 16 17:30:27 IST 2015	InvocationService	1	Mon Feb 16 17:30:27 IST 2015	0.0	0	0	0.0	0.0	0	0.0	0	0.0
+2	Mon Feb 16 17:30:27 IST 2015	OptimisticCache	1	Mon Feb 16 17:30:27 IST 2015	0.0	0	0	0.0	0.0	0	0.0	0	0.0
+2	Mon Feb 16 17:30:27 IST 2015	ReplicatedCache	1	Mon Feb 16 17:30:27 IST 2015	0.0	0	0	0.0	0.0	0	0.0	0	0.0
+3	Mon Feb 16 17:31:28 IST 2015	DistributedCache	1	Mon Feb 16 17:31:28 IST 2015	97.0	0	0	0.0	0.0	0	0.0	0	0.0
+3	Mon Feb 16 17:31:28 IST 2015	DistributedCache	2	Mon Feb 16 17:31:27 IST 2015	529.0	0	0	0.0	0.0	0	0.0	0	0.0
+3	Mon Feb 16 17:31:28 IST 2015	InvocationService	1	Mon Feb 16 17:31:28 IST 2015	0.0	0	0	0.0	0.0	0	0.0	0	0.0
+3	Mon Feb 16 17:31:28 IST 2015	OptimisticCache	1	Mon Feb 16 17:31:28 IST 2015	0.0	0	0	0.0	0.0	0	0.0	0	0.0
+3	Mon Feb 16 17:31:28 IST 2015	ReplicatedCache	1	Mon Feb 16 17:31:28 IST 2015	0.0	0	0	0.0	0.0	0	0.0	0	0.0
+6	Mon Feb 16 17:34:28 IST 2015	DistributedCache	1	Mon Feb 16 17:34:28 IST 2015	0.0	0	0	0.0	0.0	0	0.0	0	0.0
+6	Mon Feb 16 17:34:28 IST 2015	DistributedCache	2	Mon Feb 16 17:34:28 IST 2015	0.0	0	0	0.0	0.0	0	0.0	0	0.0
+6	Mon Feb 16 17:34:28 IST 2015	InvocationService	1	Mon Feb 16 17:34:28 IST 2015	0.0	0	0	0.0	0.0	0	0.0	0	0.0
+6	Mon Feb 16 17:34:28 IST 2015	OptimisticCache	1	Mon Feb 16 17:34:28 IST 2015	0.0	0	0	0.0	0.0	0	0.0	0	0.0
+6	Mon Feb 16 17:34:28 IST 2015	ReplicatedCache	1	Mon Feb 16 17:34:28 IST 2015	0.0	0	0	0.0	0.0	0	0.0	0	0.0
+7	Mon Feb 16 17:35:28 IST 2015	DistributedCache	1	Mon Feb 16 17:35:28 IST 2015	0.0	0	0	0.0	0.0	0	0.0	0	0.0
+7	Mon Feb 16 17:35:28 IST 2015	DistributedCache	2	Mon Feb 16 17:35:28 IST 2015	0.0	0	0	0.0	0.0	0	0.0	0	0.0
+7	Mon Feb 16 17:35:28 IST 2015	InvocationService	1	Mon Feb 16 17:35:28 IST 2015	0.0	0	0	0.0	0.0	0	0.0	0	0.0
+7	Mon Feb 16 17:35:28 IST 2015	OptimisticCache	1	Mon Feb 16 17:35:28 IST 2015	0.0	0	0	0.0	0.0	0	0.0	0	0.0
+7	Mon Feb 16 17:35:28 IST 2015	ReplicatedCache	1	Mon Feb 16 17:35:28 IST 2015	0.0	0	0	0.0	0.0	0	0.0	0	0.0

@@ -1,0 +1,15 @@
+Batch Counter	Report Time	RefreshTime	Node Id	UnicastAddress	MemberName	ProcessName	RoleName	MachineName	RackName	SiteName
+1	Mon Feb 16 17:29:27 IST 2015	Mon Feb 16 17:29:27 IST 2015	1	SARATHI-IN/10.191.193.10	n/a	6576	CoherenceServer	SARATHI-IN	n/a	in.oracle.com
+1	Mon Feb 16 17:29:27 IST 2015	Mon Feb 16 17:29:27 IST 2015	2	SARATHI-IN/10.191.193.10	n/a	5296	CacheTesterCacheTester	SARATHI-IN	n/a	in.oracle.com
+2	Mon Feb 16 17:30:27 IST 2015	Mon Feb 16 17:30:27 IST 2015	1	SARATHI-IN/10.191.193.10	n/a	6576	CoherenceServer	SARATHI-IN	n/a	in.oracle.com
+2	Mon Feb 16 17:30:27 IST 2015	Mon Feb 16 17:30:27 IST 2015	2	SARATHI-IN/10.191.193.10	n/a	5296	CacheTesterCacheTester	SARATHI-IN	n/a	in.oracle.com
+3	Mon Feb 16 17:31:27 IST 2015	Mon Feb 16 17:31:27 IST 2015	1	SARATHI-IN/10.191.193.10	n/a	6576	CoherenceServer	SARATHI-IN	n/a	in.oracle.com
+3	Mon Feb 16 17:31:27 IST 2015	Mon Feb 16 17:31:27 IST 2015	2	SARATHI-IN/10.191.193.10	n/a	5296	CacheTesterCacheTester	SARATHI-IN	n/a	in.oracle.com
+4	Mon Feb 16 17:32:28 IST 2015	Mon Feb 16 17:32:28 IST 2015	1	SARATHI-IN/10.191.193.10	n/a	6576	CoherenceServer	SARATHI-IN	n/a	in.oracle.com
+4	Mon Feb 16 17:32:28 IST 2015	Mon Feb 16 17:32:28 IST 2015	2	SARATHI-IN/10.191.193.10	n/a	5296	CacheTesterCacheTester	SARATHI-IN	n/a	in.oracle.com
+5	Mon Feb 16 17:33:28 IST 2015	Mon Feb 16 17:33:28 IST 2015	1	SARATHI-IN/10.191.193.10	n/a	6576	CoherenceServer	SARATHI-IN	n/a	in.oracle.com
+5	Mon Feb 16 17:33:28 IST 2015	Mon Feb 16 17:33:28 IST 2015	2	SARATHI-IN/10.191.193.10	n/a	5296	CacheTesterCacheTester	SARATHI-IN	n/a	in.oracle.com
+6	Mon Feb 16 17:34:28 IST 2015	Mon Feb 16 17:34:28 IST 2015	1	SARATHI-IN/10.191.193.10	n/a	6576	CoherenceServer	SARATHI-IN	n/a	in.oracle.com
+6	Mon Feb 16 17:34:28 IST 2015	Mon Feb 16 17:34:28 IST 2015	2	SARATHI-IN/10.191.193.10	n/a	5296	CacheTesterCacheTester	SARATHI-IN	n/a	in.oracle.com
+7	Mon Feb 16 17:35:28 IST 2015	Mon Feb 16 17:35:28 IST 2015	1	SARATHI-IN/10.191.193.10	n/a	6576	CoherenceServer	SARATHI-IN	n/a	in.oracle.com
+7	Mon Feb 16 17:35:28 IST 2015	Mon Feb 16 17:35:28 IST 2015	2	SARATHI-IN/10.191.193.10	n/a	5296	CacheTesterCacheTester	SARATHI-IN	n/a	in.oracle.com

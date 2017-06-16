@@ -1,0 +1,64 @@
+2014-09-17 17:20:34.122/0.203 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2014-09-17 17:20:34.122/0.203 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2014-09-17 17:20:34.122/0.203 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2014-09-17 17:20:34.137/0.218 Oracle Coherence 3.6.0.0 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 Build 17229
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2014-09-17 17:20:34.387/0.468 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Loaded cache configuration from "file:/D:/oracle/student/practices/Practice.04.01.solution/config/coherence-cache-config.xml"
+2014-09-17 17:21:35.274/0.203 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2014-09-17 17:21:35.274/0.203 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2014-09-17 17:21:35.274/0.203 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2014-09-17 17:21:35.289/0.218 Oracle Coherence 3.6.0.0 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 Build 17229
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2014-09-17 17:21:35.508/0.437 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Loaded cache configuration from "file:/D:/oracle/student/practices/Practice.04.01.solution/config/coherence-cache-config.xml"
+2014-09-17 17:22:50.669/0.203 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2014-09-17 17:22:50.669/0.203 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2014-09-17 17:22:50.669/0.203 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2014-09-17 17:22:50.669/0.203 Oracle Coherence 3.6.0.0 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 Build 17229
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2014-09-17 17:22:50.887/0.421 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Loaded cache configuration from "file:/D:/oracle/student/practices/Practice.04.01.solution/config/coherence-cache-config.xml"
+2014-09-17 17:23:27.890/0.202 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2014-09-17 17:23:27.890/0.202 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2014-09-17 17:23:27.890/0.202 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2014-09-17 17:23:27.890/0.202 Oracle Coherence 3.6.0.0 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 Build 17229
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2014-09-17 17:23:28.109/0.421 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Loaded cache configuration from "file:/D:/oracle/student/practices/Practice.04.02.solution/config/coherence-cache-config.xml"
+2014-09-17 17:23:28.374/0.686 Oracle Coherence GE 3.6.0.0 <D4> (thread=main, member=n/a): TCMP bound to /10.191.222.181:8088 using SystemSocketProvider
+2014-09-17 17:23:31.775/4.087 Oracle Coherence GE 3.6.0.0 <Info> (thread=Cluster, member=n/a): Created a new cluster "cluster:0xC4DB" with Member(Id=1, Timestamp=2014-09-17 17:23:28.39, Address=10.191.222.181:8088, MachineId=27573, Location=site:in.oracle.com,machine:SARATHI-IN,process:7756, Role=CacheTesterCacheTester, Edition=Grid Edition, Mode=Development, CpuCount=4, SocketCount=4) UID=0x0ABFDEB5000001488375CC466BB51F98
+2014-09-17 17:23:31.775/4.087 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4DB
+
+Group{Address=224.3.6.0, Port=36000, TTL=4}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=1, Timestamp=2014-09-17 17:23:28.39, Address=10.191.222.181:8088, MachineId=27573, Location=site:in.oracle.com,machine:SARATHI-IN,process:7756, Role=CacheTesterCacheTester)
+  OldestMember=Member(Id=1, Timestamp=2014-09-17 17:23:28.39, Address=10.191.222.181:8088, MachineId=27573, Location=site:in.oracle.com,machine:SARATHI-IN,process:7756, Role=CacheTesterCacheTester)
+  ActualMemberSet=MemberSet(Size=1, BitSetCount=2
+    Member(Id=1, Timestamp=2014-09-17 17:23:28.39, Address=10.191.222.181:8088, MachineId=27573, Location=site:in.oracle.com,machine:SARATHI-IN,process:7756, Role=CacheTesterCacheTester)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Connections=[]}
+IpMonitor{AddressListSize=0}
+
+2014-09-17 17:23:31.807/4.119 Oracle Coherence GE 3.6.0.0 <D5> (thread=Invocation:Management, member=1): Service Management joined the cluster with senior service member 1
+2014-09-17 17:23:31.963/4.275 Oracle Coherence GE 3.6.0.0 <D5> (thread=ReplicatedCache, member=1): Service ReplicatedCache joined the cluster with senior service member 1
+2014-09-17 17:23:32.010/4.322 Oracle Coherence GE 3.6.0.0 <D4> (thread=ShutdownHook, member=1): ShutdownHook: stopping cluster node

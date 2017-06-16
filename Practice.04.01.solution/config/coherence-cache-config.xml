@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE cache-config SYSTEM "cache-config.dtd">
+
+<cache-config>
+
+  <caching-scheme-mapping>
+    <cache-mapping>
+      <cache-name>Custom*</cache-name>
+      <scheme-name>MyLocalCachingScheme1</scheme-name>
+    </cache-mapping>
+  </caching-scheme-mapping>
+
+  <caching-schemes>
+    <local-scheme>
+      <scheme-name>MyLocalCachingScheme1</scheme-name>
+    </local-scheme>
+
+    <invocation-scheme>
+      <scheme-name>example-invocation</scheme-name>
+      <service-name>InvocationService1111</service-name>
+
+      <autostart system-property="tangosol.coherence.invocation.autostart">true</autostart>
+    </invocation-scheme>
+
+  </caching-schemes>
+
+</cache-config>

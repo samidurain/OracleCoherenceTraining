@@ -1,0 +1,86 @@
+2014-09-17 15:43:09.237/0.344 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2014-09-17 15:43:09.252/0.359 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override-dev.xml"
+2014-09-17 15:43:09.252/0.359 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2014-09-17 15:43:09.252/0.359 Oracle Coherence 3.6.0.0 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 Build 17229
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2014-09-17 15:43:09.595/0.702 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Loaded cache configuration from "file:/D:/oracle/student/practices/Practice.04.01.solution/config/coherence-cache-config.xml"
+2014-09-17 15:43:55.335/0.234 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2014-09-17 15:43:55.335/0.234 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override-dev.xml"
+2014-09-17 15:43:55.350/0.249 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2014-09-17 15:43:55.350/0.249 Oracle Coherence 3.6.0.0 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 Build 17229
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2014-09-17 15:43:55.600/0.499 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Loaded cache configuration from "file:/D:/oracle/student/practices/Practice.04.01.solution/config/coherence-cache-config.xml"
+2014-09-17 15:43:56.832/0.249 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2014-09-17 15:43:56.832/0.249 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override-dev.xml"
+2014-09-17 15:43:56.832/0.249 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2014-09-17 15:43:56.848/0.265 Oracle Coherence 3.6.0.0 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 Build 17229
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2014-09-17 15:43:57.113/0.530 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Loaded cache configuration from "file:/D:/oracle/student/practices/Practice.04.01.solution/config/coherence-cache-config.xml"
+2014-09-17 15:59:15.030/0.234 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2014-09-17 15:59:15.045/0.249 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override-dev.xml"
+2014-09-17 15:59:15.045/0.249 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2014-09-17 15:59:15.045/0.249 Oracle Coherence 3.6.0.0 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 Build 17229
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2014-09-17 15:59:15.310/0.514 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Loaded cache configuration from "file:/D:/oracle/student/practices/Practice.04.01.solution/config/coherence-cache-config.xml"
+2014-09-17 15:59:23.875/0.234 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2014-09-17 15:59:23.890/0.249 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override-dev.xml"
+2014-09-17 15:59:23.890/0.249 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2014-09-17 15:59:23.890/0.249 Oracle Coherence 3.6.0.0 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 Build 17229
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2014-09-17 15:59:24.156/0.515 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Loaded cache configuration from "file:/D:/oracle/student/practices/Practice.04.01.solution/config/coherence-cache-config.xml"
+2014-09-19 23:35:19.448/0.234 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2014-09-19 23:35:19.463/0.249 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override-dev.xml"
+2014-09-19 23:35:19.463/0.249 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2014-09-19 23:35:19.463/0.249 Oracle Coherence 3.6.0.0 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 Build 17229
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2014-09-19 23:35:19.744/0.530 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Loaded cache configuration from "file:/D:/oracle/student/practices/Practice.04.01.solution/config/coherence-cache-config.xml"
+2017-06-15 16:41:28.118/0.450 Oracle Coherence 12.1.2.0.0 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/C:/Oracle/Middleware/Oracle_Home/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2017-06-15 16:41:28.123/0.454 Oracle Coherence 12.1.2.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/C:/Oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override-dev.xml"
+2017-06-15 16:41:28.124/0.455 Oracle Coherence 12.1.2.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/C:/Oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2017-06-15 16:41:28.129/0.460 Oracle Coherence 12.1.2.0.0 <D5> (thread=main, member=n/a): Optional configuration override "cache-factory-config.xml" is not specified
+2017-06-15 16:41:28.130/0.461 Oracle Coherence 12.1.2.0.0 <D5> (thread=main, member=n/a): Optional configuration override "cache-factory-builder-config.xml" is not specified
+2017-06-15 16:41:28.131/0.462 Oracle Coherence 12.1.2.0.0 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 12.1.2.0.0 Build 44396
+ Grid Edition: Development mode
+Copyright (c) 2000, 2013, Oracle and/or its affiliates. All rights reserved.
+
+2017-06-15 16:41:28.315/0.646 Oracle Coherence GE 12.1.2.0.0 <Info> (thread=main, member=n/a): Loaded cache configuration from "file:/C:/Oracle/student/practices/Practice.04.01.solution/config/coherence-cache-config.xml"; this document does not refer to any schema definition and has not been validated.
+2017-06-15 16:41:28.546/0.877 Oracle Coherence GE 12.1.2.0.0 <Info> (thread=main, member=n/a): Created cache factory com.tangosol.net.ExtensibleConfigurableCacheFactory
+2017-06-15 16:41:31.560/0.430 Oracle Coherence 12.1.2.0.0 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/C:/Oracle/Middleware/Oracle_Home/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2017-06-15 16:41:31.562/0.432 Oracle Coherence 12.1.2.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/C:/Oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override-dev.xml"
+2017-06-15 16:41:31.564/0.434 Oracle Coherence 12.1.2.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/C:/Oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2017-06-15 16:41:31.569/0.439 Oracle Coherence 12.1.2.0.0 <D5> (thread=main, member=n/a): Optional configuration override "cache-factory-config.xml" is not specified
+2017-06-15 16:41:31.571/0.441 Oracle Coherence 12.1.2.0.0 <D5> (thread=main, member=n/a): Optional configuration override "cache-factory-builder-config.xml" is not specified
+2017-06-15 16:41:31.571/0.441 Oracle Coherence 12.1.2.0.0 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 12.1.2.0.0 Build 44396
+ Grid Edition: Development mode
+Copyright (c) 2000, 2013, Oracle and/or its affiliates. All rights reserved.
+
+2017-06-15 16:41:31.757/0.627 Oracle Coherence GE 12.1.2.0.0 <Info> (thread=main, member=n/a): Loaded cache configuration from "file:/C:/Oracle/student/practices/Practice.04.01.solution/config/coherence-cache-config.xml"; this document does not refer to any schema definition and has not been validated.
+2017-06-15 16:41:31.988/0.858 Oracle Coherence GE 12.1.2.0.0 <Info> (thread=main, member=n/a): Created cache factory com.tangosol.net.ExtensibleConfigurableCacheFactory

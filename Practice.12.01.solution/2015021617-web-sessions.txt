@@ -1,0 +1,21 @@
+Batch Counter	Report Time	Service	Cache Name	Tier	Total Puts	Total PutsMillis	Total Gets	Total Gets Millis	Total Hits	Total Hits Millis	Total Misses	Total Misses Millis	Total Writes	Total Write Millis	Total Reads	Total Read Millis	Total Failures	Total Queue	evictions	Cache Prunes	Cache Prunes Millis
+1	Mon Feb 16 17:29:27 IST 2015	DistributedCache	CreditCards	back	44.0	0.0	69.0	0.0	69.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		0	0
+1	Mon Feb 16 17:29:27 IST 2015	DistributedCache	Customers	back	20.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		0	0
+1	Mon Feb 16 17:29:27 IST 2015	DistributedCache	Items	back	40.0	0.0	201.0	0.0	201.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		0	0
+1	Mon Feb 16 17:29:27 IST 2015	DistributedCache	Orders	back	31.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		0	0
+1	Mon Feb 16 17:29:27 IST 2015	DistributedCache	sequences	back	182.0	0.0	182.0	0.0	177.0	0.0	5.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		0	0
+2	Mon Feb 16 17:30:27 IST 2015	DistributedCache	CreditCards	back	43.0	0.0	84.0	0.0	84.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		0.0	0.0
+2	Mon Feb 16 17:30:27 IST 2015	DistributedCache	Customers	back	20.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		0.0	0.0
+2	Mon Feb 16 17:30:27 IST 2015	DistributedCache	Items	back	40.0	0.0	255.0	0.0	255.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		0.0	0.0
+2	Mon Feb 16 17:30:27 IST 2015	DistributedCache	Orders	back	38.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		0.0	0.0
+2	Mon Feb 16 17:30:27 IST 2015	DistributedCache	sequences	back	186.0	0.0	186.0	0.0	186.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		0.0	0.0
+6	Mon Feb 16 17:34:28 IST 2015	DistributedCache	CreditCards	back	21.0	0.0	40.0	0.0	40.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		0.0	0.0
+6	Mon Feb 16 17:34:28 IST 2015	DistributedCache	Customers	back	10.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		0.0	0.0
+6	Mon Feb 16 17:34:28 IST 2015	DistributedCache	Items	back	20.0	0.0	129.0	0.0	129.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		0.0	0.0
+6	Mon Feb 16 17:34:28 IST 2015	DistributedCache	Orders	back	18.0	0.0	87.0	0.0	87.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		0.0	0.0
+6	Mon Feb 16 17:34:28 IST 2015	DistributedCache	sequences	back	92.0	0.0	92.0	0.0	92.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		0.0	0.0
+7	Mon Feb 16 17:35:28 IST 2015	DistributedCache	CreditCards	back	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		0.0	0.0
+7	Mon Feb 16 17:35:28 IST 2015	DistributedCache	Customers	back	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		0.0	0.0
+7	Mon Feb 16 17:35:28 IST 2015	DistributedCache	Items	back	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		0.0	0.0
+7	Mon Feb 16 17:35:28 IST 2015	DistributedCache	Orders	back	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		0.0	0.0
+7	Mon Feb 16 17:35:28 IST 2015	DistributedCache	sequences	back	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0		0.0	0.0

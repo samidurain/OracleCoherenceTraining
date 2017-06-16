@@ -1,0 +1,1153 @@
+2010-08-03 10:24:51.810/0.656 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-03 10:24:51.826/0.672 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-03 10:24:51.826/0.672 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-03 10:24:51.826/0.672 Oracle Coherence 3.6.0.0 DPR2 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 DPR2 Build 14713
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-03 10:24:52.107/0.953 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-03 10:24:52.920/1.766 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Service Cluster joined the cluster with senior service member n/a
+2010-08-03 10:24:56.170/5.016 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=Cluster, member=n/a): Created a new cluster "cluster:0xC4C1" with Member(Id=1, Timestamp=2010-08-03 10:24:52.732, Address=192.168.1.113:8088, MachineId=26993, Location=process:1988, Role=RetailTestTestMapListener, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) UID=0xC0A801710000012A385731FC69711F98
+2010-08-03 10:24:56.217/5.063 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4C1
+
+Group{Address=224.3.6.0, Port=36000, TTL=0}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=1, Timestamp=2010-08-03 10:24:52.732, Address=192.168.1.113:8088, MachineId=26993, Location=process:1988, Role=RetailTestTestMapListener)
+  OldestMember=Member(Id=1, Timestamp=2010-08-03 10:24:52.732, Address=192.168.1.113:8088, MachineId=26993, Location=process:1988, Role=RetailTestTestMapListener)
+  ActualMemberSet=MemberSet(Size=1, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-03 10:24:52.732, Address=192.168.1.113:8088, MachineId=26993, Location=process:1988, Role=RetailTestTestMapListener)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Peer=(none)}
+IpMonitor{AddressListSize=0}
+
+2010-08-03 10:24:56.248/5.094 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=1): Service Management joined the cluster with senior service member 1
+2010-08-03 10:24:56.576/5.422 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=1): Service DistributedCache joined the cluster with senior service member 1
+2010-08-03 10:24:57.123/5.969 Oracle Coherence GE 3.6.0.0 DPR2 <D4> (thread=ShutdownHook, member=1): ShutdownHook: stopping cluster node
+2010-08-03 10:24:57.123/5.969 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=1): Service Cluster left the cluster
+2010-08-03 13:18:28.748/0.422 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-03 13:18:28.764/0.438 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-03 13:18:28.764/0.438 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-03 13:18:28.764/0.438 Oracle Coherence 3.6.0.0 DPR2 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 DPR2 Build 14713
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-03 13:18:29.107/0.781 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-03 13:18:29.935/1.609 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Service Cluster joined the cluster with senior service member n/a
+2010-08-03 13:18:33.185/4.859 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=Cluster, member=n/a): Created a new cluster "cluster:0xC4C1" with Member(Id=1, Timestamp=2010-08-03 13:18:29.748, Address=192.168.1.113:8088, MachineId=26993, Location=process:1648, Role=RetailTestTestMapListener, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) UID=0xC0A801710000012A38F6257469711F98
+2010-08-03 13:18:33.248/4.922 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4C1
+
+Group{Address=224.3.6.0, Port=36000, TTL=0}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=1, Timestamp=2010-08-03 13:18:29.748, Address=192.168.1.113:8088, MachineId=26993, Location=process:1648, Role=RetailTestTestMapListener)
+  OldestMember=Member(Id=1, Timestamp=2010-08-03 13:18:29.748, Address=192.168.1.113:8088, MachineId=26993, Location=process:1648, Role=RetailTestTestMapListener)
+  ActualMemberSet=MemberSet(Size=1, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-03 13:18:29.748, Address=192.168.1.113:8088, MachineId=26993, Location=process:1648, Role=RetailTestTestMapListener)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Peer=(none)}
+IpMonitor{AddressListSize=0}
+
+2010-08-03 13:18:33.264/4.938 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=1): Service Management joined the cluster with senior service member 1
+2010-08-03 13:18:33.607/5.281 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=1): Service DistributedCache joined the cluster with senior service member 1
+2010-08-03 13:18:33.998/5.672 Oracle Coherence GE 3.6.0.0 DPR2 <Warning> (thread=DistributedCache:EventDispatcher, member=1): Application code running on "DistributedCache" service thread(s) should not call ensureCache as this may result in deadlock. The most common case is a CacheFactory call from a custom CacheStore implementation.
+2010-08-03 13:19:11.092/0.391 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-03 13:19:11.092/0.391 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-03 13:19:11.092/0.391 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-03 13:19:11.107/0.406 Oracle Coherence 3.6.0.0 DPR2 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 DPR2 Build 14713
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-03 13:19:11.435/0.734 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-03 13:19:12.060/1.359 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Service Cluster joined the cluster with senior service member n/a
+2010-08-03 13:19:15.404/4.703 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=Cluster, member=n/a): Created a new cluster "cluster:0xC4C1" with Member(Id=1, Timestamp=2010-08-03 13:19:11.873, Address=192.168.1.113:8088, MachineId=26993, Location=process:644, Role=RetailTestTestMapListener, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) UID=0xC0A801710000012A38F6CA0169711F98
+2010-08-03 13:19:15.467/4.766 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4C1
+
+Group{Address=224.3.6.0, Port=36000, TTL=0}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=1, Timestamp=2010-08-03 13:19:11.873, Address=192.168.1.113:8088, MachineId=26993, Location=process:644, Role=RetailTestTestMapListener)
+  OldestMember=Member(Id=1, Timestamp=2010-08-03 13:19:11.873, Address=192.168.1.113:8088, MachineId=26993, Location=process:644, Role=RetailTestTestMapListener)
+  ActualMemberSet=MemberSet(Size=1, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-03 13:19:11.873, Address=192.168.1.113:8088, MachineId=26993, Location=process:644, Role=RetailTestTestMapListener)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Peer=(none)}
+IpMonitor{AddressListSize=0}
+
+2010-08-03 13:19:15.498/4.797 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=1): Service Management joined the cluster with senior service member 1
+2010-08-03 13:19:15.857/5.156 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=1): Service DistributedCache joined the cluster with senior service member 1
+2010-08-03 13:19:16.310/5.609 Oracle Coherence GE 3.6.0.0 DPR2 <Warning> (thread=DistributedCache:EventDispatcher, member=1): Application code running on "DistributedCache" service thread(s) should not call ensureCache as this may result in deadlock. The most common case is a CacheFactory call from a custom CacheStore implementation.
+2010-08-03 13:20:18.248/0.438 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-03 13:20:18.248/0.438 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-03 13:20:18.248/0.438 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-03 13:20:18.248/0.438 Oracle Coherence 3.6.0.0 DPR2 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 DPR2 Build 14713
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-03 13:20:18.560/0.750 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-03 13:20:19.185/1.375 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Service Cluster joined the cluster with senior service member n/a
+2010-08-03 13:20:22.451/4.641 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=Cluster, member=n/a): Created a new cluster "cluster:0xC4C1" with Member(Id=1, Timestamp=2010-08-03 13:20:18.982, Address=192.168.1.113:8088, MachineId=26993, Location=process:3512, Role=RetailTestTestMapListener, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) UID=0xC0A801710000012A38F7D02669711F98
+2010-08-03 13:20:22.498/4.688 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4C1
+
+Group{Address=224.3.6.0, Port=36000, TTL=0}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=1, Timestamp=2010-08-03 13:20:18.982, Address=192.168.1.113:8088, MachineId=26993, Location=process:3512, Role=RetailTestTestMapListener)
+  OldestMember=Member(Id=1, Timestamp=2010-08-03 13:20:18.982, Address=192.168.1.113:8088, MachineId=26993, Location=process:3512, Role=RetailTestTestMapListener)
+  ActualMemberSet=MemberSet(Size=1, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-03 13:20:18.982, Address=192.168.1.113:8088, MachineId=26993, Location=process:3512, Role=RetailTestTestMapListener)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Peer=(none)}
+IpMonitor{AddressListSize=0}
+
+2010-08-03 13:20:22.529/4.719 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=1): Service Management joined the cluster with senior service member 1
+2010-08-03 13:20:22.857/5.047 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=1): Service DistributedCache joined the cluster with senior service member 1
+2010-08-03 13:20:23.232/5.422 Oracle Coherence GE 3.6.0.0 DPR2 <Warning> (thread=DistributedCache:EventDispatcher, member=1): Application code running on "DistributedCache" service thread(s) should not call ensureCache as this may result in deadlock. The most common case is a CacheFactory call from a custom CacheStore implementation.
+2010-08-03 13:21:09.123/0.422 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-03 13:21:09.123/0.422 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-03 13:21:09.123/0.422 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-03 13:21:09.139/0.438 Oracle Coherence 3.6.0.0 DPR2 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 DPR2 Build 14713
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-03 13:21:09.451/0.750 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-03 13:21:10.092/1.391 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Service Cluster joined the cluster with senior service member n/a
+2010-08-03 13:21:13.342/4.641 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=Cluster, member=n/a): Created a new cluster "cluster:0xC4C1" with Member(Id=1, Timestamp=2010-08-03 13:21:09.904, Address=192.168.1.113:8088, MachineId=26993, Location=process:3828, Role=RetailTestTestMapListener, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) UID=0xC0A801710000012A38F8971069711F98
+2010-08-03 13:21:13.404/4.703 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4C1
+
+Group{Address=224.3.6.0, Port=36000, TTL=0}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=1, Timestamp=2010-08-03 13:21:09.904, Address=192.168.1.113:8088, MachineId=26993, Location=process:3828, Role=RetailTestTestMapListener)
+  OldestMember=Member(Id=1, Timestamp=2010-08-03 13:21:09.904, Address=192.168.1.113:8088, MachineId=26993, Location=process:3828, Role=RetailTestTestMapListener)
+  ActualMemberSet=MemberSet(Size=1, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-03 13:21:09.904, Address=192.168.1.113:8088, MachineId=26993, Location=process:3828, Role=RetailTestTestMapListener)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Peer=(none)}
+IpMonitor{AddressListSize=0}
+
+2010-08-03 13:21:13.435/4.734 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=1): Service Management joined the cluster with senior service member 1
+2010-08-03 13:21:13.748/5.047 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=1): Service DistributedCache joined the cluster with senior service member 1
+2010-08-03 13:21:14.076/5.375 Oracle Coherence GE 3.6.0.0 DPR2 <Warning> (thread=DistributedCache:EventDispatcher, member=1): Application code running on "DistributedCache" service thread(s) should not call ensureCache as this may result in deadlock. The most common case is a CacheFactory call from a custom CacheStore implementation.
+2010-08-03 13:24:03.123/0.453 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-03 13:24:03.123/0.453 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-03 13:24:03.123/0.453 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-03 13:24:03.139/0.469 Oracle Coherence 3.6.0.0 DPR2 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 DPR2 Build 14713
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-03 13:24:03.451/0.781 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-03 13:24:04.107/1.437 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Service Cluster joined the cluster with senior service member n/a
+2010-08-03 13:24:07.357/4.687 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=Cluster, member=n/a): Created a new cluster "cluster:0xC4C1" with Member(Id=1, Timestamp=2010-08-03 13:24:03.92, Address=192.168.1.113:8088, MachineId=26993, Location=process:3704, Role=RetailTestTestMapListener, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) UID=0xC0A801710000012A38FB3ED069711F98
+2010-08-03 13:24:07.404/4.734 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4C1
+
+Group{Address=224.3.6.0, Port=36000, TTL=0}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=1, Timestamp=2010-08-03 13:24:03.92, Address=192.168.1.113:8088, MachineId=26993, Location=process:3704, Role=RetailTestTestMapListener)
+  OldestMember=Member(Id=1, Timestamp=2010-08-03 13:24:03.92, Address=192.168.1.113:8088, MachineId=26993, Location=process:3704, Role=RetailTestTestMapListener)
+  ActualMemberSet=MemberSet(Size=1, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-03 13:24:03.92, Address=192.168.1.113:8088, MachineId=26993, Location=process:3704, Role=RetailTestTestMapListener)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Peer=(none)}
+IpMonitor{AddressListSize=0}
+
+2010-08-03 13:24:07.435/4.765 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=1): Service Management joined the cluster with senior service member 1
+2010-08-03 13:24:07.795/5.125 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=1): Service DistributedCache joined the cluster with senior service member 1
+2010-08-03 13:24:08.139/5.469 Oracle Coherence GE 3.6.0.0 DPR2 <Warning> (thread=DistributedCache:EventDispatcher, member=1): Application code running on "DistributedCache" service thread(s) should not call ensureCache as this may result in deadlock. The most common case is a CacheFactory call from a custom CacheStore implementation.
+2010-08-03 13:24:08.435/5.765 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=1): Service Management left the cluster
+2010-08-03 13:24:08.435/5.765 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=1): Service DistributedCache left the cluster
+2010-08-03 13:24:08.560/5.890 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=1): Service Cluster left the cluster
+2010-08-03 13:26:30.185/0.421 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-03 13:26:30.185/0.421 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-03 13:26:30.185/0.421 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-03 13:26:30.201/0.437 Oracle Coherence 3.6.0.0 DPR2 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 DPR2 Build 14713
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-03 13:26:30.514/0.750 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-03 13:26:31.154/1.390 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Service Cluster joined the cluster with senior service member n/a
+2010-08-03 13:26:34.404/4.640 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=Cluster, member=n/a): Created a new cluster "cluster:0xC4C1" with Member(Id=1, Timestamp=2010-08-03 13:26:30.967, Address=192.168.1.113:8088, MachineId=26993, Location=process:1960, Role=RetailTestTestMapListener, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) UID=0xC0A801710000012A38FD7D3769711F98
+2010-08-03 13:26:34.717/4.953 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4C1
+
+Group{Address=224.3.6.0, Port=36000, TTL=0}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=1, Timestamp=2010-08-03 13:26:30.967, Address=192.168.1.113:8088, MachineId=26993, Location=process:1960, Role=RetailTestTestMapListener)
+  OldestMember=Member(Id=1, Timestamp=2010-08-03 13:26:30.967, Address=192.168.1.113:8088, MachineId=26993, Location=process:1960, Role=RetailTestTestMapListener)
+  ActualMemberSet=MemberSet(Size=1, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-03 13:26:30.967, Address=192.168.1.113:8088, MachineId=26993, Location=process:1960, Role=RetailTestTestMapListener)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Peer=(none)}
+IpMonitor{AddressListSize=0}
+
+2010-08-03 13:26:34.748/4.984 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=1): Service Management joined the cluster with senior service member 1
+2010-08-03 13:26:35.076/5.312 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=1): Service DistributedCache joined the cluster with senior service member 1
+2010-08-03 13:26:35.420/5.656 Oracle Coherence GE 3.6.0.0 DPR2 <Warning> (thread=DistributedCache:EventDispatcher, member=1): Application code running on "DistributedCache" service thread(s) should not call ensureCache as this may result in deadlock. The most common case is a CacheFactory call from a custom CacheStore implementation.
+2010-08-03 13:26:35.654/5.890 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=1): Service Management left the cluster
+2010-08-03 13:26:35.670/5.906 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=1): Service DistributedCache left the cluster
+2010-08-03 13:26:35.795/6.031 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=1): Service Cluster left the cluster
+2010-08-06 09:26:14.715/0.406 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-06 09:26:14.715/0.406 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-06 09:26:14.731/0.422 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-06 09:26:14.731/0.422 Oracle Coherence 3.6.0.0 DPR2 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 DPR2 Build 14713
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-06 09:26:15.028/0.719 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-06 09:26:15.684/1.375 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Service Cluster joined the cluster with senior service member n/a
+2010-08-06 09:26:18.950/4.641 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=Cluster, member=n/a): Created a new cluster "cluster:0xC4C1" with Member(Id=1, Timestamp=2010-08-06 09:26:15.497, Address=192.168.1.113:8088, MachineId=26993, Location=process:2864, Role=RetailTestTestMapListener, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) UID=0xC0A801710000012A47949AC969711F98
+2010-08-06 09:26:19.012/4.703 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4C1
+
+Group{Address=224.3.6.0, Port=36000, TTL=0}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=1, Timestamp=2010-08-06 09:26:15.497, Address=192.168.1.113:8088, MachineId=26993, Location=process:2864, Role=RetailTestTestMapListener)
+  OldestMember=Member(Id=1, Timestamp=2010-08-06 09:26:15.497, Address=192.168.1.113:8088, MachineId=26993, Location=process:2864, Role=RetailTestTestMapListener)
+  ActualMemberSet=MemberSet(Size=1, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-06 09:26:15.497, Address=192.168.1.113:8088, MachineId=26993, Location=process:2864, Role=RetailTestTestMapListener)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Peer=(none)}
+IpMonitor{AddressListSize=0}
+
+2010-08-06 09:26:19.043/4.734 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=1): Service Management joined the cluster with senior service member 1
+2010-08-06 09:26:19.356/5.047 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=1): Service DistributedCache joined the cluster with senior service member 1
+2010-08-06 09:26:19.731/5.422 Oracle Coherence GE 3.6.0.0 DPR2 <Warning> (thread=DistributedCache:EventDispatcher, member=1): Application code running on "DistributedCache" service thread(s) should not call ensureCache as this may result in deadlock. The most common case is a CacheFactory call from a custom CacheStore implementation.
+2010-08-06 09:26:20.012/5.703 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=1): Service Management left the cluster
+2010-08-06 09:26:20.012/5.703 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=1): Service DistributedCache left the cluster
+2010-08-06 09:26:20.137/5.828 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=1): Service Cluster left the cluster
+2010-08-09 11:51:25.412/0.734 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-09 11:51:25.428/0.750 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-09 11:51:25.428/0.750 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-09 11:51:25.428/0.750 Oracle Coherence 3.6.0.0 DPR2 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 DPR2 Build 14713
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-09 11:51:25.974/1.296 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-09 11:51:27.146/2.468 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Service Cluster joined the cluster with senior service member n/a
+2010-08-09 11:51:28.318/3.640 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=Cluster, member=n/a): This Member(Id=2, Timestamp=2010-08-09 11:54:14.906, Address=10.149.158.18:8088, MachineId=274, Location=process:2208, Role=RetailTestTestMapTrigger, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) joined cluster "cluster:0xC4DB" with senior Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole, Edition=Grid Edition, Mode=Development, CpuCount=4, SocketCount=2)
+2010-08-09 11:51:28.334/3.656 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Cluster with senior member 1
+2010-08-09 11:51:28.334/3.656 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Management with senior member 1
+2010-08-09 11:51:28.459/3.781 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4DB
+
+Group{Address=224.3.6.0, Port=36000, TTL=4}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=2, Timestamp=2010-08-09 11:54:14.906, Address=10.149.158.18:8088, MachineId=274, Location=process:2208, Role=RetailTestTestMapTrigger)
+  OldestMember=Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+  ActualMemberSet=MemberSet(Size=2, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+    Member(Id=2, Timestamp=2010-08-09 11:54:14.906, Address=10.149.158.18:8088, MachineId=274, Location=process:2208, Role=RetailTestTestMapTrigger)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Peer=Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)}
+IpMonitor{AddressListSize=1}
+
+2010-08-09 11:51:28.459/3.781 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=TcpRingListener, member=2): Connected to Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+2010-08-09 11:51:28.615/3.937 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=2): Service Management joined the cluster with senior service member 1
+2010-08-09 11:51:29.553/4.875 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=2): Service DistributedCache joined the cluster with senior service member 2
+2010-08-09 11:51:30.240/5.578 Oracle Coherence GE 3.6.0.0 DPR2 <Warning> (thread=DistributedCache:EventDispatcher, member=2): Application code running on "DistributedCache" service thread(s) should not call ensureCache as this may result in deadlock. The most common case is a CacheFactory call from a custom CacheStore implementation.
+2010-08-09 11:51:30.646/5.968 Oracle Coherence GE 3.6.0.0 DPR2 <D4> (thread=ShutdownHook, member=2): ShutdownHook: stopping cluster node
+2010-08-09 11:51:30.678/6.000 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=2): Service DistributedCache left the cluster
+2010-08-09 11:51:30.678/6.000 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=2): Service Management left the cluster
+2010-08-09 11:53:05.162/0.453 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-09 11:53:05.162/0.453 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-09 11:53:05.162/0.453 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-09 11:53:05.178/0.469 Oracle Coherence 3.6.0.0 DPR2 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 DPR2 Build 14713
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-09 11:53:05.521/0.812 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-09 11:53:06.224/1.515 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Service Cluster joined the cluster with senior service member n/a
+2010-08-09 11:53:07.381/2.672 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=Cluster, member=n/a): This Member(Id=3, Timestamp=2010-08-09 11:55:53.953, Address=10.149.158.18:8088, MachineId=274, Location=process:1676, Role=RetailTestTestMapTrigger, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) joined cluster "cluster:0xC4DB" with senior Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole, Edition=Grid Edition, Mode=Development, CpuCount=4, SocketCount=2)
+2010-08-09 11:53:07.381/2.672 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Cluster with senior member 1
+2010-08-09 11:53:07.381/2.672 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Management with senior member 1
+2010-08-09 11:53:07.474/2.765 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4DB
+
+Group{Address=224.3.6.0, Port=36000, TTL=4}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=3, Timestamp=2010-08-09 11:55:53.953, Address=10.149.158.18:8088, MachineId=274, Location=process:1676, Role=RetailTestTestMapTrigger)
+  OldestMember=Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+  ActualMemberSet=MemberSet(Size=2, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+    Member(Id=3, Timestamp=2010-08-09 11:55:53.953, Address=10.149.158.18:8088, MachineId=274, Location=process:1676, Role=RetailTestTestMapTrigger)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Peer=Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)}
+IpMonitor{AddressListSize=1}
+
+2010-08-09 11:53:07.490/2.781 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=TcpRingListener, member=3): Connected to Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+2010-08-09 11:53:07.584/2.875 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=3): Service Management joined the cluster with senior service member 1
+2010-08-09 11:53:07.943/3.234 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=3): Service DistributedCache joined the cluster with senior service member 3
+2010-08-09 11:53:08.396/3.687 Oracle Coherence GE 3.6.0.0 DPR2 <Warning> (thread=DistributedCache:EventDispatcher, member=3): Application code running on "DistributedCache" service thread(s) should not call ensureCache as this may result in deadlock. The most common case is a CacheFactory call from a custom CacheStore implementation.
+2010-08-09 11:53:08.756/4.047 Oracle Coherence GE 3.6.0.0 DPR2 <D4> (thread=ShutdownHook, member=3): ShutdownHook: stopping cluster node
+2010-08-09 11:53:08.756/4.047 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=3): Service Cluster left the cluster
+2010-08-09 11:53:08.787/4.078 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=3): Service DistributedCache left the cluster
+2010-08-09 11:53:08.787/4.078 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=3): Service Management left the cluster
+2010-08-09 11:54:10.521/0.437 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-09 11:54:10.521/0.437 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-09 11:54:10.521/0.437 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-09 11:54:10.537/0.453 Oracle Coherence 3.6.0.0 DPR2 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 DPR2 Build 14713
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-09 11:54:10.865/0.781 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-09 11:54:11.553/1.469 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Service Cluster joined the cluster with senior service member n/a
+2010-08-09 11:54:12.662/2.578 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=Cluster, member=n/a): This Member(Id=4, Timestamp=2010-08-09 11:56:59.257, Address=10.149.158.18:8088, MachineId=274, Location=process:3964, Role=RetailTestTestMapTrigger, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) joined cluster "cluster:0xC4DB" with senior Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole, Edition=Grid Edition, Mode=Development, CpuCount=4, SocketCount=2)
+2010-08-09 11:54:12.678/2.594 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Cluster with senior member 1
+2010-08-09 11:54:12.678/2.594 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Management with senior member 1
+2010-08-09 11:54:12.740/2.656 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=TcpRingListener, member=n/a): Connected to Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+2010-08-09 11:54:12.740/2.656 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4DB
+
+Group{Address=224.3.6.0, Port=36000, TTL=4}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=4, Timestamp=2010-08-09 11:56:59.257, Address=10.149.158.18:8088, MachineId=274, Location=process:3964, Role=RetailTestTestMapTrigger)
+  OldestMember=Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+  ActualMemberSet=MemberSet(Size=2, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+    Member(Id=4, Timestamp=2010-08-09 11:56:59.257, Address=10.149.158.18:8088, MachineId=274, Location=process:3964, Role=RetailTestTestMapTrigger)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Peer=Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)}
+IpMonitor{AddressListSize=1}
+
+2010-08-09 11:54:12.803/2.719 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=4): Service Management joined the cluster with senior service member 1
+2010-08-09 11:54:13.131/3.047 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=4): Service DistributedCache joined the cluster with senior service member 4
+2010-08-09 11:54:13.553/3.469 Oracle Coherence GE 3.6.0.0 DPR2 <Warning> (thread=DistributedCache:EventDispatcher, member=4): Application code running on "DistributedCache" service thread(s) should not call ensureCache as this may result in deadlock. The most common case is a CacheFactory call from a custom CacheStore implementation.
+2010-08-09 11:54:13.881/3.797 Oracle Coherence GE 3.6.0.0 DPR2 <D4> (thread=ShutdownHook, member=4): ShutdownHook: stopping cluster node
+2010-08-09 11:54:13.881/3.797 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=4): Service Cluster left the cluster
+2010-08-09 11:54:13.912/3.828 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=4): Service DistributedCache left the cluster
+2010-08-09 11:54:13.912/3.828 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=4): Service Management left the cluster
+2010-08-09 11:56:00.474/0.437 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-09 11:56:00.490/0.453 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-09 11:56:00.490/0.453 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-09 11:56:00.490/0.453 Oracle Coherence 3.6.0.0 DPR2 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 DPR2 Build 14713
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-09 11:56:00.803/0.766 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-09 11:56:01.490/1.453 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Service Cluster joined the cluster with senior service member n/a
+2010-08-09 11:56:02.490/2.453 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=Cluster, member=n/a): This Member(Id=5, Timestamp=2010-08-09 11:58:49.093, Address=10.149.158.18:8088, MachineId=274, Location=process:1716, Role=RetailTestTestMapTrigger, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) joined cluster "cluster:0xC4DB" with senior Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole, Edition=Grid Edition, Mode=Development, CpuCount=4, SocketCount=2)
+2010-08-09 11:56:02.506/2.469 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Cluster with senior member 1
+2010-08-09 11:56:02.506/2.469 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Management with senior member 1
+2010-08-09 11:56:02.584/2.547 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4DB
+
+Group{Address=224.3.6.0, Port=36000, TTL=4}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=5, Timestamp=2010-08-09 11:58:49.093, Address=10.149.158.18:8088, MachineId=274, Location=process:1716, Role=RetailTestTestMapTrigger)
+  OldestMember=Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+  ActualMemberSet=MemberSet(Size=2, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+    Member(Id=5, Timestamp=2010-08-09 11:58:49.093, Address=10.149.158.18:8088, MachineId=274, Location=process:1716, Role=RetailTestTestMapTrigger)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Peer=(none)}
+IpMonitor{AddressListSize=1}
+
+2010-08-09 11:56:02.599/2.562 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=TcpRingListener, member=5): Connected to Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+2010-08-09 11:56:02.631/2.594 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=5): Service Management joined the cluster with senior service member 1
+2010-08-09 11:56:02.974/2.937 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=5): Service DistributedCache joined the cluster with senior service member 5
+2010-08-09 11:56:03.349/3.312 Oracle Coherence GE 3.6.0.0 DPR2 <Warning> (thread=DistributedCache:EventDispatcher, member=5): Application code running on "DistributedCache" service thread(s) should not call ensureCache as this may result in deadlock. The most common case is a CacheFactory call from a custom CacheStore implementation.
+2010-08-09 11:56:03.646/3.609 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=5): Service Management left the cluster
+2010-08-09 11:56:03.646/3.609 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=5): Service DistributedCache left the cluster
+2010-08-09 11:56:03.803/3.766 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=5): Service Cluster left the cluster
+2010-08-09 13:18:33.664/0.406 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-09 13:18:33.664/0.406 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-09 13:18:33.664/0.406 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-09 13:18:33.664/0.406 Oracle Coherence 3.6.0.0 DPR2 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 DPR2 Build 14713
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-09 13:18:33.977/0.719 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-09 13:18:34.696/1.438 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Service Cluster joined the cluster with senior service member n/a
+2010-08-09 13:18:35.899/2.641 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=Cluster, member=n/a): This Member(Id=2, Timestamp=2010-08-09 13:21:22.984, Address=10.149.158.18:8088, MachineId=274, Location=process:3092, Role=RetailTestTestMapTrigger, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) joined cluster "cluster:0xC4DB" with senior Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole, Edition=Grid Edition, Mode=Development, CpuCount=4, SocketCount=2)
+2010-08-09 13:18:35.946/2.688 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Cluster with senior member 1
+2010-08-09 13:18:35.946/2.688 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Management with senior member 1
+2010-08-09 13:18:36.008/2.750 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=TcpRingListener, member=n/a): Connected to Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+2010-08-09 13:18:36.008/2.750 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4DB
+
+Group{Address=224.3.6.0, Port=36000, TTL=4}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=2, Timestamp=2010-08-09 13:21:22.984, Address=10.149.158.18:8088, MachineId=274, Location=process:3092, Role=RetailTestTestMapTrigger)
+  OldestMember=Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+  ActualMemberSet=MemberSet(Size=2, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+    Member(Id=2, Timestamp=2010-08-09 13:21:22.984, Address=10.149.158.18:8088, MachineId=274, Location=process:3092, Role=RetailTestTestMapTrigger)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Peer=Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)}
+IpMonitor{AddressListSize=1}
+
+2010-08-09 13:18:36.055/2.797 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=2): Service Management joined the cluster with senior service member 1
+2010-08-09 13:18:36.430/3.172 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=2): Service DistributedCache joined the cluster with senior service member 2
+2010-08-09 13:18:36.836/3.578 Oracle Coherence GE 3.6.0.0 DPR2 <Warning> (thread=DistributedCache:EventDispatcher, member=2): Application code running on "DistributedCache" service thread(s) should not call ensureCache as this may result in deadlock. The most common case is a CacheFactory call from a custom CacheStore implementation.
+2010-08-09 13:18:37.149/3.891 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=2): Service Management left the cluster
+2010-08-09 13:18:37.164/3.906 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=2): Service DistributedCache left the cluster
+2010-08-09 13:18:37.336/4.078 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=2): Service Cluster left the cluster
+2010-08-09 13:19:32.305/0.422 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-09 13:19:32.321/0.438 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-09 13:19:32.321/0.438 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-09 13:19:32.321/0.438 Oracle Coherence 3.6.0.0 DPR2 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 DPR2 Build 14713
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-09 13:19:32.649/0.766 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-09 13:19:33.305/1.422 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Service Cluster joined the cluster with senior service member n/a
+2010-08-09 13:19:34.321/2.438 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=Cluster, member=n/a): This Member(Id=3, Timestamp=2010-08-09 13:22:21.406, Address=10.149.158.18:8088, MachineId=274, Location=process:4040, Role=RetailTestTestMapTrigger, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) joined cluster "cluster:0xC4DB" with senior Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole, Edition=Grid Edition, Mode=Development, CpuCount=4, SocketCount=2)
+2010-08-09 13:19:34.336/2.453 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Cluster with senior member 1
+2010-08-09 13:19:34.336/2.453 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Management with senior member 1
+2010-08-09 13:19:34.399/2.516 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=TcpRingListener, member=n/a): Connected to Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+2010-08-09 13:19:34.399/2.516 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4DB
+
+Group{Address=224.3.6.0, Port=36000, TTL=4}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=3, Timestamp=2010-08-09 13:22:21.406, Address=10.149.158.18:8088, MachineId=274, Location=process:4040, Role=RetailTestTestMapTrigger)
+  OldestMember=Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+  ActualMemberSet=MemberSet(Size=2, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+    Member(Id=3, Timestamp=2010-08-09 13:22:21.406, Address=10.149.158.18:8088, MachineId=274, Location=process:4040, Role=RetailTestTestMapTrigger)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Peer=Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)}
+IpMonitor{AddressListSize=1}
+
+2010-08-09 13:19:34.477/2.594 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=3): Service Management joined the cluster with senior service member 1
+2010-08-09 13:19:34.789/2.906 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=3): Service DistributedCache joined the cluster with senior service member 3
+2010-08-09 13:19:35.414/3.531 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=3): Service Management left the cluster
+2010-08-09 13:19:35.414/3.531 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=3): Service DistributedCache left the cluster
+2010-08-09 13:19:35.555/3.672 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=3): Service Cluster left the cluster
+2010-08-09 13:19:48.492/0.437 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-09 13:19:48.492/0.437 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-09 13:19:48.492/0.437 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-09 13:19:48.508/0.453 Oracle Coherence 3.6.0.0 DPR2 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 DPR2 Build 14713
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-09 13:19:48.821/0.766 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-09 13:19:49.586/1.531 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Service Cluster joined the cluster with senior service member n/a
+2010-08-09 13:19:50.633/2.578 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=Cluster, member=n/a): This Member(Id=4, Timestamp=2010-08-09 13:22:37.703, Address=10.149.158.18:8088, MachineId=274, Location=process:2688, Role=RetailTestTestMapTrigger, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) joined cluster "cluster:0xC4DB" with senior Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole, Edition=Grid Edition, Mode=Development, CpuCount=4, SocketCount=2)
+2010-08-09 13:19:50.649/2.594 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Cluster with senior member 1
+2010-08-09 13:19:50.649/2.594 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Management with senior member 1
+2010-08-09 13:19:50.696/2.641 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4DB
+
+Group{Address=224.3.6.0, Port=36000, TTL=4}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=4, Timestamp=2010-08-09 13:22:37.703, Address=10.149.158.18:8088, MachineId=274, Location=process:2688, Role=RetailTestTestMapTrigger)
+  OldestMember=Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+  ActualMemberSet=MemberSet(Size=2, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+    Member(Id=4, Timestamp=2010-08-09 13:22:37.703, Address=10.149.158.18:8088, MachineId=274, Location=process:2688, Role=RetailTestTestMapTrigger)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Peer=(none)}
+IpMonitor{AddressListSize=1}
+
+2010-08-09 13:19:50.711/2.656 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=TcpRingListener, member=4): Connected to Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+2010-08-09 13:19:50.774/2.719 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=4): Service Management joined the cluster with senior service member 1
+2010-08-09 13:19:51.086/3.031 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=4): Service DistributedCache joined the cluster with senior service member 4
+2010-08-09 13:19:51.649/3.594 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=4): Service Management left the cluster
+2010-08-09 13:19:51.664/3.609 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=4): Service DistributedCache left the cluster
+2010-08-09 13:19:51.821/3.766 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=4): Service Cluster left the cluster
+2010-08-09 13:22:01.508/0.422 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-09 13:22:01.508/0.422 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-09 13:22:01.508/0.422 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-09 13:22:01.524/0.438 Oracle Coherence 3.6.0.0 DPR2 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 DPR2 Build 14713
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-09 13:22:01.867/0.781 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-09 13:22:02.508/1.422 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Service Cluster joined the cluster with senior service member n/a
+2010-08-09 13:22:03.539/2.453 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=Cluster, member=n/a): This Member(Id=5, Timestamp=2010-08-09 13:24:50.593, Address=10.149.158.18:8088, MachineId=274, Location=process:1460, Role=RetailTestTestMapTrigger, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) joined cluster "cluster:0xC4DB" with senior Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole, Edition=Grid Edition, Mode=Development, CpuCount=4, SocketCount=2)
+2010-08-09 13:22:03.555/2.469 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Cluster with senior member 1
+2010-08-09 13:22:03.555/2.469 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Management with senior member 1
+2010-08-09 13:22:03.617/2.531 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4DB
+
+Group{Address=224.3.6.0, Port=36000, TTL=4}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=5, Timestamp=2010-08-09 13:24:50.593, Address=10.149.158.18:8088, MachineId=274, Location=process:1460, Role=RetailTestTestMapTrigger)
+  OldestMember=Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+  ActualMemberSet=MemberSet(Size=2, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+    Member(Id=5, Timestamp=2010-08-09 13:24:50.593, Address=10.149.158.18:8088, MachineId=274, Location=process:1460, Role=RetailTestTestMapTrigger)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Peer=(none)}
+IpMonitor{AddressListSize=1}
+
+2010-08-09 13:22:03.633/2.547 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=TcpRingListener, member=5): Connected to Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+2010-08-09 13:22:03.680/2.594 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=5): Service Management joined the cluster with senior service member 1
+2010-08-09 13:22:04.039/2.953 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=5): Service DistributedCache joined the cluster with senior service member 5
+2010-08-09 13:22:04.602/3.516 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=5): Service Management left the cluster
+2010-08-09 13:22:04.602/3.516 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=5): Service DistributedCache left the cluster
+2010-08-09 13:22:04.774/3.688 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=5): Service Cluster left the cluster
+2010-08-09 13:24:13.242/0.437 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-09 13:24:13.242/0.437 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-09 13:24:13.242/0.437 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-09 13:24:13.258/0.453 Oracle Coherence 3.6.0.0 DPR2 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 DPR2 Build 14713
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-09 13:24:13.571/0.766 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-09 13:24:14.227/1.422 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Service Cluster joined the cluster with senior service member n/a
+2010-08-09 13:24:15.227/2.422 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=Cluster, member=n/a): This Member(Id=6, Timestamp=2010-08-09 13:27:02.297, Address=10.149.158.18:8088, MachineId=274, Location=process:1044, Role=RetailTestTestMapTrigger, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) joined cluster "cluster:0xC4DB" with senior Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole, Edition=Grid Edition, Mode=Development, CpuCount=4, SocketCount=2)
+2010-08-09 13:24:15.242/2.437 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Cluster with senior member 1
+2010-08-09 13:24:15.242/2.437 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Management with senior member 1
+2010-08-09 13:24:15.305/2.500 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=TcpRingListener, member=n/a): Connected to Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+2010-08-09 13:24:15.321/2.516 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4DB
+
+Group{Address=224.3.6.0, Port=36000, TTL=4}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=6, Timestamp=2010-08-09 13:27:02.297, Address=10.149.158.18:8088, MachineId=274, Location=process:1044, Role=RetailTestTestMapTrigger)
+  OldestMember=Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+  ActualMemberSet=MemberSet(Size=2, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+    Member(Id=6, Timestamp=2010-08-09 13:27:02.297, Address=10.149.158.18:8088, MachineId=274, Location=process:1044, Role=RetailTestTestMapTrigger)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Peer=Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)}
+IpMonitor{AddressListSize=1}
+
+2010-08-09 13:24:15.383/2.578 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=6): Service Management joined the cluster with senior service member 1
+2010-08-09 13:24:15.727/2.922 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=6): Service DistributedCache joined the cluster with senior service member 6
+2010-08-09 13:24:16.414/3.609 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=6): Service Management left the cluster
+2010-08-09 13:24:16.414/3.609 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=6): Service DistributedCache left the cluster
+2010-08-09 13:24:16.602/3.797 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=6): Service Cluster left the cluster
+2010-08-09 13:25:18.477/0.422 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-09 13:25:18.477/0.422 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-09 13:25:18.477/0.422 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-09 13:25:18.477/0.422 Oracle Coherence 3.6.0.0 DPR2 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 DPR2 Build 14713
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-09 13:25:18.805/0.750 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-09 13:25:19.461/1.406 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Service Cluster joined the cluster with senior service member n/a
+2010-08-09 13:25:20.399/2.344 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=Cluster, member=n/a): This Member(Id=7, Timestamp=2010-08-09 13:28:07.492, Address=10.149.158.18:8088, MachineId=274, Location=process:3916, Role=RetailTestTestMapTrigger, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) joined cluster "cluster:0xC4DB" with senior Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole, Edition=Grid Edition, Mode=Development, CpuCount=4, SocketCount=2)
+2010-08-09 13:25:20.430/2.375 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Cluster with senior member 1
+2010-08-09 13:25:20.430/2.375 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Management with senior member 1
+2010-08-09 13:25:20.492/2.437 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4DB
+
+Group{Address=224.3.6.0, Port=36000, TTL=4}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=7, Timestamp=2010-08-09 13:28:07.492, Address=10.149.158.18:8088, MachineId=274, Location=process:3916, Role=RetailTestTestMapTrigger)
+  OldestMember=Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+  ActualMemberSet=MemberSet(Size=2, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+    Member(Id=7, Timestamp=2010-08-09 13:28:07.492, Address=10.149.158.18:8088, MachineId=274, Location=process:3916, Role=RetailTestTestMapTrigger)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Peer=(none)}
+IpMonitor{AddressListSize=1}
+
+2010-08-09 13:25:20.508/2.453 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=TcpRingListener, member=7): Connected to Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+2010-08-09 13:25:20.571/2.516 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=7): Service Management joined the cluster with senior service member 1
+2010-08-09 13:25:20.946/2.891 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=7): Service DistributedCache joined the cluster with senior service member 7
+2010-08-09 13:25:21.805/3.750 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=7): Service Management left the cluster
+2010-08-09 13:25:21.805/3.750 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=7): Service DistributedCache left the cluster
+2010-08-09 13:25:21.961/3.906 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=7): Service Cluster left the cluster
+2010-08-09 14:50:34.117/0.468 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-09 14:50:34.117/0.468 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-09 14:50:34.117/0.468 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-09 14:50:34.133/0.484 Oracle Coherence 3.6.0.0 DPR2 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 DPR2 Build 14713
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-09 14:50:34.461/0.812 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-09 14:50:35.242/1.593 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Service Cluster joined the cluster with senior service member n/a
+2010-08-09 14:50:36.586/2.937 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=Cluster, member=n/a): This Member(Id=4, Timestamp=2010-08-09 14:53:23.749, Address=10.149.158.18:8088, MachineId=274, Location=process:1564, Role=RetailTestTestMapTrigger, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) joined cluster "cluster:0xC4DB" with senior Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole, Edition=Grid Edition, Mode=Development, CpuCount=4, SocketCount=2)
+2010-08-09 14:50:36.664/3.015 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Cluster with senior member 1
+2010-08-09 14:50:36.664/3.015 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Management with senior member 1
+2010-08-09 14:50:36.742/3.093 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4DB
+
+Group{Address=224.3.6.0, Port=36000, TTL=4}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=4, Timestamp=2010-08-09 14:53:23.749, Address=10.149.158.18:8088, MachineId=274, Location=process:1564, Role=RetailTestTestMapTrigger)
+  OldestMember=Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+  ActualMemberSet=MemberSet(Size=2, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+    Member(Id=4, Timestamp=2010-08-09 14:53:23.749, Address=10.149.158.18:8088, MachineId=274, Location=process:1564, Role=RetailTestTestMapTrigger)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Peer=(none)}
+IpMonitor{AddressListSize=1}
+
+2010-08-09 14:50:36.758/3.109 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=TcpRingListener, member=4): Connected to Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+2010-08-09 14:50:36.836/3.187 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=4): Service Management joined the cluster with senior service member 1
+2010-08-09 14:50:37.289/3.640 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=4): Service DistributedCache joined the cluster with senior service member 4
+2010-08-09 14:50:37.805/4.156 Oracle Coherence GE 3.6.0.0 DPR2 <Warning> (thread=DistributedCache:EventDispatcher, member=4): Application code running on "DistributedCache" service thread(s) should not call ensureCache as this may result in deadlock. The most common case is a CacheFactory call from a custom CacheStore implementation.
+2010-08-09 14:50:38.149/4.500 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=4): Service Management left the cluster
+2010-08-09 14:50:38.149/4.500 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=4): Service DistributedCache left the cluster
+2010-08-09 14:50:38.367/4.718 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=4): Service Cluster left the cluster
+2010-08-09 17:02:45.321/0.485 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-09 17:02:45.321/0.485 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-09 17:02:45.321/0.485 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-09 17:02:45.336/0.500 Oracle Coherence 3.6.0.0 DPR2 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 DPR2 Build 14713
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-09 17:02:45.711/0.875 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-09 17:02:46.461/1.625 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Service Cluster joined the cluster with senior service member n/a
+2010-08-09 17:02:47.617/2.781 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=Cluster, member=n/a): This Member(Id=2, Timestamp=2010-08-09 17:05:35.172, Address=10.149.158.18:8088, MachineId=274, Location=process:3900, Role=RetailTestTestMapTrigger, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) joined cluster "cluster:0xC4DB" with senior Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole, Edition=Grid Edition, Mode=Development, CpuCount=4, SocketCount=2)
+2010-08-09 17:02:47.664/2.828 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Cluster with senior member 1
+2010-08-09 17:02:47.664/2.828 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Management with senior member 1
+2010-08-09 17:02:47.727/2.891 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=TcpRingListener, member=n/a): Connected to Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+2010-08-09 17:02:47.742/2.906 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4DB
+
+Group{Address=224.3.6.0, Port=36000, TTL=4}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=2, Timestamp=2010-08-09 17:05:35.172, Address=10.149.158.18:8088, MachineId=274, Location=process:3900, Role=RetailTestTestMapTrigger)
+  OldestMember=Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+  ActualMemberSet=MemberSet(Size=2, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+    Member(Id=2, Timestamp=2010-08-09 17:05:35.172, Address=10.149.158.18:8088, MachineId=274, Location=process:3900, Role=RetailTestTestMapTrigger)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Peer=Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)}
+IpMonitor{AddressListSize=1}
+
+2010-08-09 17:02:47.899/3.063 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=2): Service Management joined the cluster with senior service member 1
+2010-08-09 17:02:48.321/3.485 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=2): Service DistributedCache joined the cluster with senior service member 2
+2010-08-09 17:02:48.461/3.625 Oracle Coherence GE 3.6.0.0 DPR2 <D4> (thread=ShutdownHook, member=2): ShutdownHook: stopping cluster node
+2010-08-09 17:02:48.461/3.625 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=2): Service Cluster left the cluster
+2010-08-09 17:02:48.492/3.656 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=2): Service DistributedCache left the cluster
+2010-08-09 17:03:21.508/0.453 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-09 17:03:21.524/0.469 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-09 17:03:21.524/0.469 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-09 17:03:21.524/0.469 Oracle Coherence 3.6.0.0 DPR2 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 DPR2 Build 14713
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-09 17:03:21.836/0.781 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-09 17:03:22.477/1.422 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Service Cluster joined the cluster with senior service member n/a
+2010-08-09 17:03:23.602/2.547 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=Cluster, member=n/a): This Member(Id=3, Timestamp=2010-08-09 17:06:11.094, Address=10.149.158.18:8088, MachineId=274, Location=process:3928, Role=RetailTestTestMapTrigger, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) joined cluster "cluster:0xC4DB" with senior Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole, Edition=Grid Edition, Mode=Development, CpuCount=4, SocketCount=2)
+2010-08-09 17:03:24.274/3.219 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Cluster with senior member 1
+2010-08-09 17:03:24.274/3.219 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Management with senior member 1
+2010-08-09 17:03:24.336/3.281 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=TcpRingListener, member=n/a): Connected to Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+2010-08-09 17:03:24.352/3.297 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4DB
+
+Group{Address=224.3.6.0, Port=36000, TTL=4}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=3, Timestamp=2010-08-09 17:06:11.094, Address=10.149.158.18:8088, MachineId=274, Location=process:3928, Role=RetailTestTestMapTrigger)
+  OldestMember=Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+  ActualMemberSet=MemberSet(Size=2, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+    Member(Id=3, Timestamp=2010-08-09 17:06:11.094, Address=10.149.158.18:8088, MachineId=274, Location=process:3928, Role=RetailTestTestMapTrigger)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Peer=Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)}
+IpMonitor{AddressListSize=1}
+
+2010-08-09 17:03:24.430/3.375 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=3): Service Management joined the cluster with senior service member 1
+2010-08-09 17:03:24.774/3.719 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=3): Service DistributedCache joined the cluster with senior service member 3
+2010-08-09 17:07:19.508/0.531 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-09 17:07:19.508/0.531 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-09 17:07:19.508/0.531 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-09 17:07:19.508/0.531 Oracle Coherence 3.6.0.0 DPR2 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 DPR2 Build 14713
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-09 17:07:19.836/0.859 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-09 17:07:20.524/1.547 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Service Cluster joined the cluster with senior service member n/a
+2010-08-09 17:07:21.508/2.531 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=Cluster, member=n/a): This Member(Id=5, Timestamp=2010-08-09 17:10:09.125, Address=10.149.158.18:8088, MachineId=274, Location=process:1384, Role=RetailTestTestMapTrigger, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) joined cluster "cluster:0xC4DB" with senior Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole, Edition=Grid Edition, Mode=Development, CpuCount=4, SocketCount=2)
+2010-08-09 17:07:21.539/2.562 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Cluster with senior member 1
+2010-08-09 17:07:21.539/2.562 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Management with senior member 1
+2010-08-09 17:07:21.602/2.625 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4DB
+
+Group{Address=224.3.6.0, Port=36000, TTL=4}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=5, Timestamp=2010-08-09 17:10:09.125, Address=10.149.158.18:8088, MachineId=274, Location=process:1384, Role=RetailTestTestMapTrigger)
+  OldestMember=Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+  ActualMemberSet=MemberSet(Size=2, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+    Member(Id=5, Timestamp=2010-08-09 17:10:09.125, Address=10.149.158.18:8088, MachineId=274, Location=process:1384, Role=RetailTestTestMapTrigger)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Peer=Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)}
+IpMonitor{AddressListSize=1}
+
+2010-08-09 17:07:21.633/2.656 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=TcpRingListener, member=5): Connected to Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+2010-08-09 17:07:21.680/2.703 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=5): Service Management joined the cluster with senior service member 1
+2010-08-09 17:07:22.008/3.031 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=5): Service DistributedCache joined the cluster with senior service member 5
+2010-08-09 17:07:22.399/3.422 Oracle Coherence GE 3.6.0.0 DPR2 <Warning> (thread=DistributedCache:EventDispatcher, member=5): Application code running on "DistributedCache" service thread(s) should not call ensureCache as this may result in deadlock. The most common case is a CacheFactory call from a custom CacheStore implementation.
+2010-08-09 17:07:22.696/3.719 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=5): Service Management left the cluster
+2010-08-09 17:07:22.696/3.719 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=5): Service DistributedCache left the cluster
+2010-08-09 17:07:22.852/3.875 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=5): Service Cluster left the cluster
+2010-08-09 17:10:00.024/0.407 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-09 17:10:00.024/0.407 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-09 17:10:00.024/0.407 Oracle Coherence 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-09 17:10:00.024/0.407 Oracle Coherence 3.6.0.0 DPR2 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 DPR2 Build 14713
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-09 17:10:00.336/0.719 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-09 17:10:00.961/1.344 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Service Cluster joined the cluster with senior service member n/a
+2010-08-09 17:10:01.930/2.313 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=Cluster, member=n/a): This Member(Id=6, Timestamp=2010-08-09 17:12:49.53, Address=10.149.158.18:8088, MachineId=274, Location=process:2008, Role=RetailTestTestMapTrigger, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) joined cluster "cluster:0xC4DB" with senior Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole, Edition=Grid Edition, Mode=Development, CpuCount=4, SocketCount=2)
+2010-08-09 17:10:01.977/2.360 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Cluster with senior member 1
+2010-08-09 17:10:01.977/2.360 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Management with senior member 1
+2010-08-09 17:10:02.055/2.438 Oracle Coherence GE 3.6.0.0 DPR2 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4DB
+
+Group{Address=224.3.6.0, Port=36000, TTL=4}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=6, Timestamp=2010-08-09 17:12:49.53, Address=10.149.158.18:8088, MachineId=274, Location=process:2008, Role=RetailTestTestMapTrigger)
+  OldestMember=Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+  ActualMemberSet=MemberSet(Size=2, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+    Member(Id=6, Timestamp=2010-08-09 17:12:49.53, Address=10.149.158.18:8088, MachineId=274, Location=process:2008, Role=RetailTestTestMapTrigger)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Peer=(none)}
+IpMonitor{AddressListSize=1}
+
+2010-08-09 17:10:02.071/2.454 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=TcpRingListener, member=6): Connected to Member(Id=1, Timestamp=2010-08-09 09:11:26.375, Address=10.137.142.88:8089, MachineId=3416, Location=site:amer.bea.com,machine:quidditch,process:4532, Role=CoherenceConsole)
+2010-08-09 17:10:02.117/2.500 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=6): Service Management joined the cluster with senior service member 1
+2010-08-09 17:10:02.461/2.844 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=6): Service DistributedCache joined the cluster with senior service member 6
+2010-08-09 17:10:02.836/3.219 Oracle Coherence GE 3.6.0.0 DPR2 <Warning> (thread=DistributedCache:EventDispatcher, member=6): Application code running on "DistributedCache" service thread(s) should not call ensureCache as this may result in deadlock. The most common case is a CacheFactory call from a custom CacheStore implementation.
+2010-08-09 17:10:03.133/3.516 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Invocation:Management, member=6): Service Management left the cluster
+2010-08-09 17:10:03.133/3.516 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=DistributedCache, member=6): Service DistributedCache left the cluster
+2010-08-09 17:10:03.321/3.704 Oracle Coherence GE 3.6.0.0 DPR2 <D5> (thread=Cluster, member=6): Service Cluster left the cluster
+2010-08-18 11:44:52.850/0.516 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-18 11:44:52.850/0.516 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-18 11:44:52.850/0.516 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-18 11:44:52.866/0.532 Oracle Coherence 3.6.0.0 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 Build 17229
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-18 11:44:53.584/1.250 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-18 11:44:54.147/1.813 Oracle Coherence GE 3.6.0.0 <D4> (thread=main, member=n/a): TCMP bound to /192.168.1.113:8088 using SystemSocketProvider
+2010-08-18 11:44:57.725/5.391 Oracle Coherence GE 3.6.0.0 <Info> (thread=Cluster, member=n/a): Created a new cluster "cluster:0xC4DB" with Member(Id=1, Timestamp=2010-08-18 11:44:54.162, Address=192.168.1.113:8088, MachineId=26993, Location=process:2624, Role=RetailTestTestMapListener, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) UID=0xC0A801710000012A85DFD99269711F98
+2010-08-18 11:44:57.725/5.391 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4DB
+
+Group{Address=224.3.6.0, Port=36000, TTL=4}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=1, Timestamp=2010-08-18 11:44:54.162, Address=192.168.1.113:8088, MachineId=26993, Location=process:2624, Role=RetailTestTestMapListener)
+  OldestMember=Member(Id=1, Timestamp=2010-08-18 11:44:54.162, Address=192.168.1.113:8088, MachineId=26993, Location=process:2624, Role=RetailTestTestMapListener)
+  ActualMemberSet=MemberSet(Size=1, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-18 11:44:54.162, Address=192.168.1.113:8088, MachineId=26993, Location=process:2624, Role=RetailTestTestMapListener)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Connections=[]}
+IpMonitor{AddressListSize=0}
+
+2010-08-18 11:44:57.772/5.438 Oracle Coherence GE 3.6.0.0 <D5> (thread=Invocation:Management, member=1): Service Management joined the cluster with senior service member 1
+2010-08-18 11:44:58.131/5.797 Oracle Coherence GE 3.6.0.0 <D5> (thread=DistributedCache, member=1): Service DistributedCache joined the cluster with senior service member 1
+2010-08-18 11:45:00.428/8.094 Oracle Coherence GE 3.6.0.0 <Warning> (thread=DistributedCache:EventDispatcher, member=1): Application code running on "DistributedCache" service thread(s) should not call ensureCache as this may result in deadlock. The most common case is a CacheFactory call from a custom CacheStore implementation.
+2010-08-18 11:45:02.319/9.985 Oracle Coherence GE 3.6.0.0 <D5> (thread=Invocation:Management, member=1): Service Management left the cluster
+2010-08-18 11:45:02.334/10.000 Oracle Coherence GE 3.6.0.0 <D5> (thread=DistributedCache, member=1): Service DistributedCache left the cluster
+2010-08-18 11:45:02.444/10.110 Oracle Coherence GE 3.6.0.0 <D5> (thread=Cluster, member=1): Service Cluster left the cluster
+2010-08-18 11:49:09.975/5.094 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-18 11:49:10.037/5.156 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-18 11:49:10.037/5.156 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-18 11:49:10.069/5.188 Oracle Coherence 3.6.0.0 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 Build 17229
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-18 11:49:14.694/9.813 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-18 11:49:16.366/11.485 Oracle Coherence GE 3.6.0.0 <D4> (thread=main, member=n/a): TCMP bound to /192.168.1.113:8090 using SystemSocketProvider
+2010-08-18 11:49:20.756/15.875 Oracle Coherence GE 3.6.0.0 <Info> (thread=Cluster, member=n/a): Failed to satisfy the variance: allowed=16, actual=32
+2010-08-18 11:49:20.756/15.875 Oracle Coherence GE 3.6.0.0 <Info> (thread=Cluster, member=n/a): Increasing allowable variance to 18
+2010-08-18 11:49:21.834/16.953 Oracle Coherence GE 3.6.0.0 <Info> (thread=Cluster, member=n/a): This Member(Id=2, Timestamp=2010-08-18 11:49:21.78, Address=192.168.1.113:8090, MachineId=26993, Location=process:2104, Role=RetailTestTestMapListener, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) joined cluster "cluster:0xC4DB" with senior Member(Id=1, Timestamp=2010-08-18 11:48:47.272, Address=192.168.1.113:8088, MachineId=26993, Location=process:2884, Role=CoherenceConsole, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1)
+2010-08-18 11:49:21.912/17.031 Oracle Coherence GE 3.6.0.0 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Cluster with senior member 1
+2010-08-18 11:49:21.912/17.031 Oracle Coherence GE 3.6.0.0 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Management with senior member 1
+2010-08-18 11:49:21.912/17.031 Oracle Coherence GE 3.6.0.0 <D5> (thread=Cluster, member=n/a): Member 1 joined Service DistributedCache with senior member 1
+2010-08-18 11:49:21.928/17.047 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4DB
+
+Group{Address=224.3.6.0, Port=36000, TTL=4}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=2, Timestamp=2010-08-18 11:49:21.78, Address=192.168.1.113:8090, MachineId=26993, Location=process:2104, Role=RetailTestTestMapListener)
+  OldestMember=Member(Id=1, Timestamp=2010-08-18 11:48:47.272, Address=192.168.1.113:8088, MachineId=26993, Location=process:2884, Role=CoherenceConsole)
+  ActualMemberSet=MemberSet(Size=2, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-18 11:48:47.272, Address=192.168.1.113:8088, MachineId=26993, Location=process:2884, Role=CoherenceConsole)
+    Member(Id=2, Timestamp=2010-08-18 11:49:21.78, Address=192.168.1.113:8090, MachineId=26993, Location=process:2104, Role=RetailTestTestMapListener)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Connections=[1]}
+IpMonitor{AddressListSize=0}
+
+2010-08-18 11:49:22.600/17.719 Oracle Coherence GE 3.6.0.0 <D5> (thread=Invocation:Management, member=2): Service Management joined the cluster with senior service member 1
+2010-08-18 11:49:26.662/21.781 Oracle Coherence GE 3.6.0.0 <D5> (thread=DistributedCache, member=2): Service DistributedCache joined the cluster with senior service member 1
+2010-08-18 11:49:27.647/22.766 Oracle Coherence GE 3.6.0.0 <D4> (thread=DistributedCache, member=2): Asking member 1 for 128 primary partitions
+2010-08-18 11:49:28.975/24.094 Oracle Coherence GE 3.6.0.0 <D5> (thread=DistributedCache, member=2): Deferring the distribution due to 128 pending configuration updates
+2010-08-18 11:50:43.448/0.500 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-18 11:50:43.464/0.516 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-18 11:50:43.464/0.516 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-18 11:50:43.480/0.532 Oracle Coherence 3.6.0.0 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 Build 17229
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-18 11:50:43.917/0.969 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-18 11:50:44.542/1.594 Oracle Coherence GE 3.6.0.0 <D4> (thread=main, member=n/a): TCMP bound to /192.168.1.113:8090 using SystemSocketProvider
+2010-08-18 11:50:45.901/2.953 Oracle Coherence GE 3.6.0.0 <Info> (thread=Cluster, member=n/a): This Member(Id=3, Timestamp=2010-08-18 11:50:45.878, Address=192.168.1.113:8090, MachineId=26993, Location=process:1512, Role=RetailTestTestMapListener, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) joined cluster "cluster:0xC4DB" with senior Member(Id=1, Timestamp=2010-08-18 11:48:47.272, Address=192.168.1.113:8088, MachineId=26993, Location=process:2884, Role=CoherenceConsole, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1)
+2010-08-18 11:50:45.917/2.969 Oracle Coherence GE 3.6.0.0 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Cluster with senior member 1
+2010-08-18 11:50:45.917/2.969 Oracle Coherence GE 3.6.0.0 <D5> (thread=Cluster, member=n/a): Member 1 joined Service Management with senior member 1
+2010-08-18 11:50:45.917/2.969 Oracle Coherence GE 3.6.0.0 <D5> (thread=Cluster, member=n/a): Member 1 joined Service DistributedCache with senior member 1
+2010-08-18 11:50:45.917/2.969 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4DB
+
+Group{Address=224.3.6.0, Port=36000, TTL=4}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=3, Timestamp=2010-08-18 11:50:45.878, Address=192.168.1.113:8090, MachineId=26993, Location=process:1512, Role=RetailTestTestMapListener)
+  OldestMember=Member(Id=1, Timestamp=2010-08-18 11:48:47.272, Address=192.168.1.113:8088, MachineId=26993, Location=process:2884, Role=CoherenceConsole)
+  ActualMemberSet=MemberSet(Size=2, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-18 11:48:47.272, Address=192.168.1.113:8088, MachineId=26993, Location=process:2884, Role=CoherenceConsole)
+    Member(Id=3, Timestamp=2010-08-18 11:50:45.878, Address=192.168.1.113:8090, MachineId=26993, Location=process:1512, Role=RetailTestTestMapListener)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Connections=[1]}
+IpMonitor{AddressListSize=0}
+
+2010-08-18 11:50:45.980/3.032 Oracle Coherence GE 3.6.0.0 <D5> (thread=Invocation:Management, member=3): Service Management joined the cluster with senior service member 1
+2010-08-18 11:50:46.355/3.407 Oracle Coherence GE 3.6.0.0 <D5> (thread=DistributedCache, member=3): Service DistributedCache joined the cluster with senior service member 1
+2010-08-18 11:50:46.433/3.500 Oracle Coherence GE 3.6.0.0 <D4> (thread=DistributedCache, member=3): Asking member 1 for 128 primary partitions
+2010-08-18 11:52:24.464/0.500 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-18 11:52:24.464/0.500 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-18 11:52:24.464/0.500 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-18 11:52:24.480/0.516 Oracle Coherence 3.6.0.0 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 Build 17229
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-18 11:52:24.870/0.906 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-18 11:52:25.448/1.484 Oracle Coherence GE 3.6.0.0 <D4> (thread=main, member=n/a): TCMP bound to /192.168.1.113:8088 using SystemSocketProvider
+2010-08-18 11:52:29.011/5.047 Oracle Coherence GE 3.6.0.0 <Info> (thread=Cluster, member=n/a): Created a new cluster "cluster:0xC4DB" with Member(Id=1, Timestamp=2010-08-18 11:52:25.464, Address=192.168.1.113:8088, MachineId=26993, Location=process:4072, Role=RetailTestTestMapListener, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) UID=0xC0A801710000012A85E6BC7869711F98
+2010-08-18 11:52:29.011/5.047 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4DB
+
+Group{Address=224.3.6.0, Port=36000, TTL=4}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=1, Timestamp=2010-08-18 11:52:25.464, Address=192.168.1.113:8088, MachineId=26993, Location=process:4072, Role=RetailTestTestMapListener)
+  OldestMember=Member(Id=1, Timestamp=2010-08-18 11:52:25.464, Address=192.168.1.113:8088, MachineId=26993, Location=process:4072, Role=RetailTestTestMapListener)
+  ActualMemberSet=MemberSet(Size=1, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-18 11:52:25.464, Address=192.168.1.113:8088, MachineId=26993, Location=process:4072, Role=RetailTestTestMapListener)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Connections=[]}
+IpMonitor{AddressListSize=0}
+
+2010-08-18 11:52:29.058/5.094 Oracle Coherence GE 3.6.0.0 <D5> (thread=Invocation:Management, member=1): Service Management joined the cluster with senior service member 1
+2010-08-18 11:52:29.386/5.422 Oracle Coherence GE 3.6.0.0 <D5> (thread=DistributedCache, member=1): Service DistributedCache joined the cluster with senior service member 1
+2010-08-18 11:52:29.776/5.812 Oracle Coherence GE 3.6.0.0 <Warning> (thread=DistributedCache:EventDispatcher, member=1): Application code running on "DistributedCache" service thread(s) should not call ensureCache as this may result in deadlock. The most common case is a CacheFactory call from a custom CacheStore implementation.
+2010-08-18 11:52:30.120/6.156 Oracle Coherence GE 3.6.0.0 <D5> (thread=Invocation:Management, member=1): Service Management left the cluster
+2010-08-18 11:52:30.120/6.156 Oracle Coherence GE 3.6.0.0 <D5> (thread=DistributedCache, member=1): Service DistributedCache left the cluster
+2010-08-18 11:52:30.214/6.250 Oracle Coherence GE 3.6.0.0 <D5> (thread=Cluster, member=1): Service Cluster left the cluster
+2010-08-29 14:51:59.250/0.782 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/Oracle/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2010-08-29 14:51:59.250/0.782 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/Oracle/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2010-08-29 14:51:59.250/0.782 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/Oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2010-08-29 14:51:59.265/0.797 Oracle Coherence 3.6.0.0 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 Build 17229
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2010-08-29 14:51:59.843/1.375 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/Oracle/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2010-08-29 14:52:00.437/1.969 Oracle Coherence GE 3.6.0.0 <D4> (thread=main, member=n/a): TCMP bound to /192.168.1.123:8088 using SystemSocketProvider
+2010-08-29 14:52:04.171/5.703 Oracle Coherence GE 3.6.0.0 <Info> (thread=Cluster, member=n/a): Created a new cluster "cluster:0xC4C1" with Member(Id=1, Timestamp=2010-08-29 14:52:00.453, Address=192.168.1.123:8088, MachineId=27003, Location=process:196, Role=RetailTestTestMapTrigger, Edition=Grid Edition, Mode=Development, CpuCount=1, SocketCount=1) UID=0xC0A8017B0000012ABE1E71C5697B1F98
+2010-08-29 14:52:04.171/5.703 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Started cluster Name=cluster:0xC4C1
+
+Group{Address=224.3.6.0, Port=36000, TTL=0}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=1, Timestamp=2010-08-29 14:52:00.453, Address=192.168.1.123:8088, MachineId=27003, Location=process:196, Role=RetailTestTestMapTrigger)
+  OldestMember=Member(Id=1, Timestamp=2010-08-29 14:52:00.453, Address=192.168.1.123:8088, MachineId=27003, Location=process:196, Role=RetailTestTestMapTrigger)
+  ActualMemberSet=MemberSet(Size=1, BitSetCount=2
+    Member(Id=1, Timestamp=2010-08-29 14:52:00.453, Address=192.168.1.123:8088, MachineId=27003, Location=process:196, Role=RetailTestTestMapTrigger)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Connections=[]}
+IpMonitor{AddressListSize=0}
+
+2010-08-29 14:52:04.218/5.750 Oracle Coherence GE 3.6.0.0 <D5> (thread=Invocation:Management, member=1): Service Management joined the cluster with senior service member 1
+2010-08-29 14:52:04.765/6.297 Oracle Coherence GE 3.6.0.0 <D5> (thread=DistributedCache, member=1): Service DistributedCache joined the cluster with senior service member 1
+2010-08-29 14:52:06.062/7.594 Oracle Coherence GE 3.6.0.0 <Warning> (thread=DistributedCache:EventDispatcher, member=1): Application code running on "DistributedCache" service thread(s) should not call ensureCache as this may result in deadlock. The most common case is a CacheFactory call from a custom CacheStore implementation.
+2010-08-29 14:52:06.531/8.063 Oracle Coherence GE 3.6.0.0 <D5> (thread=Invocation:Management, member=1): Service Management left the cluster
+2010-08-29 14:52:06.531/8.063 Oracle Coherence GE 3.6.0.0 <D5> (thread=DistributedCache, member=1): Service DistributedCache left the cluster
+2010-08-29 14:52:06.656/8.188 Oracle Coherence GE 3.6.0.0 <D5> (thread=Cluster, member=1): Service Cluster left the cluster
+2014-09-17 22:08:31.020/0.210 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2014-09-17 22:08:31.030/0.220 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2014-09-17 22:08:31.030/0.220 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2014-09-17 22:08:31.030/0.220 Oracle Coherence 3.6.0.0 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 Build 17229
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2014-09-17 22:08:31.300/0.490 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2014-09-17 22:08:31.580/0.770 Oracle Coherence GE 3.6.0.0 <D4> (thread=main, member=n/a): TCMP bound to /10.191.223.200:8088 using SystemSocketProvider
+2014-09-17 22:08:34.920/4.110 Oracle Coherence GE 3.6.0.0 <Info> (thread=Cluster, member=n/a): Created a new cluster "Cluster1" with Member(Id=1, Timestamp=2014-09-17 22:08:31.59, Address=10.191.223.200:8088, MachineId=27336, Location=site:in.oracle.com,machine:SARATHI-IN,process:8364, Role=RetailTestTestMapTrigger, Edition=Grid Edition, Mode=Development, CpuCount=4, SocketCount=4) UID=0x0ABFDFC800000148847AC5A66AC81F98
+2014-09-17 22:08:34.920/4.110 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Started cluster Name=Cluster1
+
+Group{Address=224.3.6.0, Port=36000, TTL=0}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=1, Timestamp=2014-09-17 22:08:31.59, Address=10.191.223.200:8088, MachineId=27336, Location=site:in.oracle.com,machine:SARATHI-IN,process:8364, Role=RetailTestTestMapTrigger)
+  OldestMember=Member(Id=1, Timestamp=2014-09-17 22:08:31.59, Address=10.191.223.200:8088, MachineId=27336, Location=site:in.oracle.com,machine:SARATHI-IN,process:8364, Role=RetailTestTestMapTrigger)
+  ActualMemberSet=MemberSet(Size=1, BitSetCount=2
+    Member(Id=1, Timestamp=2014-09-17 22:08:31.59, Address=10.191.223.200:8088, MachineId=27336, Location=site:in.oracle.com,machine:SARATHI-IN,process:8364, Role=RetailTestTestMapTrigger)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Connections=[]}
+IpMonitor{AddressListSize=0}
+
+2014-09-17 22:08:34.981/4.171 Oracle Coherence GE 3.6.0.0 <D5> (thread=Invocation:Management, member=1): Service Management joined the cluster with senior service member 1
+2014-09-17 22:08:35.151/4.341 Oracle Coherence GE 3.6.0.0 <D5> (thread=DistributedCache, member=1): Service DistributedCache joined the cluster with senior service member 1
+2014-09-17 22:08:35.351/4.541 Oracle Coherence GE 3.6.0.0 <Warning> (thread=DistributedCache:EventDispatcher, member=1): Application code running on "DistributedCache" service thread(s) should not call ensureCache as this may result in deadlock. The most common case is a CacheFactory call from a custom CacheStore implementation.
+2014-09-17 22:08:35.521/4.711 Oracle Coherence GE 3.6.0.0 <D5> (thread=Invocation:Management, member=1): Service Management left the cluster
+2014-09-17 22:08:35.521/4.711 Oracle Coherence GE 3.6.0.0 <D5> (thread=DistributedCache, member=1): Service DistributedCache left the cluster
+2014-09-17 22:08:35.601/4.791 Oracle Coherence GE 3.6.0.0 <D5> (thread=Cluster, member=1): Service Cluster left the cluster
+2014-09-17 22:09:40.142/0.210 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational configuration from "jar:file:/D:/oracle/coherence/coherence/lib/coherence.jar!/tangosol-coherence.xml"
+2014-09-17 22:09:40.152/0.220 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/coherence/coherence/lib/coherence.jar!/tangosol-coherence-override-dev.xml"
+2014-09-17 22:09:40.152/0.220 Oracle Coherence 3.6.0.0 <Info> (thread=main, member=n/a): Loaded operational overrides from "jar:file:/D:/oracle/student/support/coherence-tools-1.0.jar!/tangosol-coherence-override.xml"
+2014-09-17 22:09:40.152/0.220 Oracle Coherence 3.6.0.0 <D5> (thread=main, member=n/a): Optional configuration override "/custom-mbeans.xml" is not specified
+
+Oracle Coherence Version 3.6.0.0 Build 17229
+ Grid Edition: Development mode
+Copyright (c) 2000, 2010, Oracle and/or its affiliates. All rights reserved.
+
+2014-09-17 22:09:40.372/0.440 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Loaded cache configuration from "jar:file:/D:/oracle/coherence/coherence/lib/coherence.jar!/coherence-cache-config.xml"
+2014-09-17 22:09:40.652/0.720 Oracle Coherence GE 3.6.0.0 <D4> (thread=main, member=n/a): TCMP bound to /10.191.223.200:8088 using SystemSocketProvider
+2014-09-17 22:09:43.992/4.060 Oracle Coherence GE 3.6.0.0 <Info> (thread=Cluster, member=n/a): Created a new cluster "Cluster1" with Member(Id=1, Timestamp=2014-09-17 22:09:40.662, Address=10.191.223.200:8088, MachineId=27336, Location=site:in.oracle.com,machine:SARATHI-IN,process:7704, Role=RetailTestTestMapTrigger, Edition=Grid Edition, Mode=Development, CpuCount=4, SocketCount=4) UID=0x0ABFDFC800000148847BD3766AC81F98
+2014-09-17 22:09:43.992/4.060 Oracle Coherence GE 3.6.0.0 <Info> (thread=main, member=n/a): Started cluster Name=Cluster1
+
+Group{Address=224.3.6.0, Port=36000, TTL=0}
+
+MasterMemberSet
+  (
+  ThisMember=Member(Id=1, Timestamp=2014-09-17 22:09:40.662, Address=10.191.223.200:8088, MachineId=27336, Location=site:in.oracle.com,machine:SARATHI-IN,process:7704, Role=RetailTestTestMapTrigger)
+  OldestMember=Member(Id=1, Timestamp=2014-09-17 22:09:40.662, Address=10.191.223.200:8088, MachineId=27336, Location=site:in.oracle.com,machine:SARATHI-IN,process:7704, Role=RetailTestTestMapTrigger)
+  ActualMemberSet=MemberSet(Size=1, BitSetCount=2
+    Member(Id=1, Timestamp=2014-09-17 22:09:40.662, Address=10.191.223.200:8088, MachineId=27336, Location=site:in.oracle.com,machine:SARATHI-IN,process:7704, Role=RetailTestTestMapTrigger)
+    )
+  RecycleMillis=1200000
+  RecycleSet=MemberSet(Size=0, BitSetCount=0
+    )
+  )
+
+TcpRing{Connections=[]}
+IpMonitor{AddressListSize=0}
+
+2014-09-17 22:09:44.049/4.117 Oracle Coherence GE 3.6.0.0 <D5> (thread=Invocation:Management, member=1): Service Management joined the cluster with senior service member 1
+2014-09-17 22:09:44.280/4.348 Oracle Coherence GE 3.6.0.0 <D5> (thread=DistributedCache, member=1): Service DistributedCache joined the cluster with senior service member 1
+2014-09-17 22:09:44.580/4.648 Oracle Coherence GE 3.6.0.0 <Warning> (thread=DistributedCache:EventDispatcher, member=1): Application code running on "DistributedCache" service thread(s) should not call ensureCache as this may result in deadlock. The most common case is a CacheFactory call from a custom CacheStore implementation.
+2014-09-17 22:09:44.770/4.838 Oracle Coherence GE 3.6.0.0 <D5> (thread=Invocation:Management, member=1): Service Management left the cluster
+2014-09-17 22:09:44.780/4.848 Oracle Coherence GE 3.6.0.0 <D5> (thread=DistributedCache, member=1): Service DistributedCache left the cluster
+2014-09-17 22:09:44.860/4.928 Oracle Coherence GE 3.6.0.0 <D5> (thread=Cluster, member=1): Service Cluster left the cluster

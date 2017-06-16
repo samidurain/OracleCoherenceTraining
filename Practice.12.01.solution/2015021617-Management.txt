@@ -1,0 +1,5 @@
+Batch Counter	ReportTime	RefreshPolicy	RefreshTime	RefreshExcessCount	RefreshCount	RefreshPredictionCount	RefreshTimeoutCount
+1	Mon Feb 16 17:29:27 IST 2015	refresh-ahead	Mon Feb 16 17:29:27 IST 2015	11	11	0	0
+2	Mon Feb 16 17:30:27 IST 2015	refresh-ahead	Mon Feb 16 17:30:27 IST 2015	11	12	10	0
+6	Mon Feb 16 17:34:28 IST 2015	refresh-ahead	Mon Feb 16 17:34:28 IST 2015	11	16	50	0
+7	Mon Feb 16 17:35:28 IST 2015	refresh-ahead	Mon Feb 16 17:35:28 IST 2015	11	18	60	0
